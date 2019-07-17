@@ -6,7 +6,7 @@ In Sentiment Analysis, to highlight the correct words which contribute towards s
 
 **Dataset**
 
-Movie Review Dataset : [IMDB](https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset/kernels). Each movie review has several sentences. The IMDB dataset has a training set of 25,000 labeled instances and a testing set of 25,000 labeled instances; the dataset has positive and negative labels balanced in training and testing set. Another movie review dataset : [polarity dataset v2.0](http://www.cs.cornell.edu/people/pabo/movie-review-data/) by Pang and Lee. It contains 1000 positive and 1000 negative reviews.
+Movie Review Dataset : [IMDB](https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset). Each movie review has several sentences. The IMDB dataset has a training set of 25,000 labeled instances and a testing set of 25,000 labeled instances; the dataset has positive and negative labels balanced in training and testing set. Another movie review dataset : [polarity dataset v2.0](http://www.cs.cornell.edu/people/pabo/movie-review-data/) by Pang and Lee. It contains 1000 positive and 1000 negative reviews.
 
 **Lexicon**
 We have used SentiWordNet lexicon.
